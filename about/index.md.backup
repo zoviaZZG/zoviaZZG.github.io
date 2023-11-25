@@ -1,9 +1,13 @@
 ---
 title: About
+date:
+tags:
+categories:
 ---
 [Contact](zoviazzg@gmail.com "mailto:zoviazzg@gmail.com")
 
 Software used
+* Text: [gedit](https://gedit-technology.github.io/apps/gedit/ "gedit")
 * Markdown: [ghostwriter](https://github.com/KDE/ghostwriter "ghostwriter")
 * Image editing: [Krita](https://krita.org/en/ "Krita"), [Darktable](https://github.com/darktable-org/darktable "Darktable")
 * SSG: [Hexo](https://github.com/hexojs/hexo "hexo")
